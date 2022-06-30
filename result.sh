@@ -2,7 +2,9 @@
 
 
 echo "enter the 2 numbers by giving spaces"
+#adding a line
 
+echo "SCM config"
 
 sum=`expr $a + $b`
 mul=`expr $a \* $b`
