@@ -2,7 +2,8 @@
 
 
 echo "enter the 2 numbers by giving spaces"
-read a b 
+a=10
+b=20
 
 sum=`expr $a + $b`
 mul=`expr $a \* $b`
